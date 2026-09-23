@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mukti Chakraborty</h1>
-<h3 align="center">Full-Stack Web Development Learner | Building Modern & Responsive Web Applications</h3>
+<h3 align="center">I'm a Diploma in Computer Engineering student and an aspiring Full-Stack Web Developer from Bangladesh. Currently, I'm learning Full-Stack Web Development through Programming Hero, with a focus on building a strong foundation in modern web technologies.</h3>
+
+- 🔭 I’m currently working on **small projects while learning React, Next.js, and full-stack development. I enjoy understanding how things work and improving my projects step by step.**
 
 - 🌱 I’m currently learning **React & Next.js**
+
+- 👯 Practicing **JavaScript and React.**
 
 - 💬 Ask me about **JavaScript, TypeScript, React & Next.js**
 
@@ -10,9 +14,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/moni4043" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moni4043" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mukti-chakraborty-552680389" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mukti-chakraborty-552680389" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/mukti.chakraborty.683625" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mukti.chakraborty.683625" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/mukti___42/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mukti___42/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mukti-chakraborty-552680389" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukti-chakraborty-552680389" height="30" width="40" /></a>
+<a href="https://fb.com/mukti.chakraborty.683625" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mukti.chakraborty.683625" height="30" width="40" /></a>
+<a href="https://instagram.com/mukti___42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mukti___42" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukti9537-oss&show_icons=true&locale=en" alt="mukti9537-oss" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukti9537-oss&" alt="mukti9537-oss" /></p>
-
