@@ -1,29 +1,86 @@
 <h1 align="center">Hi 👋, I'm Mukti Chakraborty</h1>
-<h3 align="center">I'm a Diploma in Computer Engineering student and an aspiring Full-Stack Web Developer from Bangladesh. Currently, I'm learning Full-Stack Web Development through Programming Hero, with a focus on building a strong foundation in modern web technologies.</h3>
 
-- 🔭 I’m currently working on **small projects while learning React, Next.js, and full-stack development. I enjoy understanding how things work and improving my projects step by step.**
+<h3 align="center">
+Diploma in Computer Engineering Student | Aspiring Full-Stack Web Developer
+</h3>
 
-- 🌱 I’m currently learning **React & Next.js**
-
-- 👯 Practicing **JavaScript and React.**
-
-- 💬 Ask me about **JavaScript, TypeScript, React & Next.js**
-
-- 📫 How to reach me **mukti9537@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/moni4043" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moni4043" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mukti-chakraborty-552680389" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukti-chakraborty-552680389" height="30" width="40" /></a>
-<a href="https://fb.com/mukti.chakraborty.683625" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mukti.chakraborty.683625" height="30" width="40" /></a>
-<a href="https://instagram.com/mukti___42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mukti___42" height="30" width="40" /></a>
+<p align="center">
+Currently learning Full-Stack Web Development through Programming Hero and building projects with modern web technologies.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukti9537-oss&show_icons=true&locale=en&layout=compact" alt="mukti9537-oss" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukti9537-oss&show_icons=true&locale=en" alt="mukti9537-oss" /></p>
+- 🔭 Currently working on small projects while learning **React, Next.js and Full-Stack Development**
+- 🌱 Currently learning **React, Next.js, TypeScript and modern web development**
+- 💻 Practicing **JavaScript, React and problem-solving through projects**
+- 🎯 Goal: Become a skilled **Full-Stack Web Developer**
+- 📫 Email: **mukti9537@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukti9537-oss&" alt="mukti9537-oss" /></p>
+---
+
+# ⚙️ TECHNOLOGY STACK
+
+### Languages:
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+</p>
+
+### CSS Frameworks & Libraries:
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tailwind" />
+</p>
+
+### JavaScript Frameworks & Libraries:
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs" />
+</p>
+
+### Runtime & Backend Technologies:
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs" />
+</p>
+
+### Deployment Platform:
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=netlify" />
+</p>
+
+### Tools & Technologies:
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+🤝 Connect With Me
+
+<p align="left"> <a href="https://www.linkedin.com/in/mukti-chakraborty-552680389/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a>
+
+<a href="https://www.facebook.com/mukti.chakraborty.683625" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/> </a>
+
+<a href="https://www.instagram.com/mukti___42/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a>
+
+<a href="mailto:mukti9537@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </p>
+
+
+# 📊 GITHUB STATISTICS & ANALYSIS
+
+### Repository Stats & Streak:
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=mukti9537-oss" alt="Mukti's GitHub Streak"/>
+</p>
+
+---
+
+<p align="center">
+Thanks for visiting my profile! 🚀
+</p>
