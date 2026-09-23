@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./bannar.png" alt="Mukti Chakraborty Banner" width="100%">
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Mukti Chakraborty</h1>
 
 <h3 align="center">
